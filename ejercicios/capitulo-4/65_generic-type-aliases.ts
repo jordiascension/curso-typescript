@@ -1,0 +1,1 @@
+type ButtonEvent = MyEvent<HTMLButtonElement>
